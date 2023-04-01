@@ -33,7 +33,7 @@
   </div>
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130) 
- <h3 align=>🪄 Blog 🪄</h3>
+ <h3 align=>🪄Latest Blog Posts 🪄</h3>
 
   [2023/03/31 - GitHub Actions | 깃허브 액션이란?](https://un-lazy-midnight.tistory.com/43) <br/> 
 [2023/03/31 - 코드업 100제 | 6098 성실한 개미 (파이썬)](https://un-lazy-midnight.tistory.com/42) <br/> 
