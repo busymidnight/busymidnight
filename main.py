@@ -39,7 +39,7 @@ markdown_text="""
   </div>
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130) 
- <h3 align=>🪄 Blog 🪄</h3>
+ <h3 align=>🪄Latest Blog Posts 🪄</h3>
 
   """
 
