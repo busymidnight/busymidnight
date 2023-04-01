@@ -40,6 +40,7 @@ markdown_text="""
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130) 
  <h3 align=>🪄 Blog 🪄</h3>
+
   """
 
 
@@ -47,7 +48,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
   if idx > MAX_NUM:
      break
   feed_date = feed['published_parsed']
-  markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+  markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']})\n"
 
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
