@@ -6,9 +6,6 @@
  <div align="center">
    <h4>Hello World 👋</h4>
    <br /><br />
-  <br>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
- <br>
    <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
    <br /><br />
    <h3>📚 Tech Stack 📚</h3>
@@ -30,15 +27,17 @@
    <br>
  </p>
 
-
+ <br>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
+ <br>
   </div>
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130) 
  <h3 align=>🪄Latest Blog Posts 🪄</h3>
 
-  [2023/03/31 - GitHub Actions | 깃허브 액션이란?](https://un-lazy-midnight.tistory.com/43) <br/> 
-[2023/03/31 - 코드업 100제 | 6098 성실한 개미 (파이썬)](https://un-lazy-midnight.tistory.com/42) <br/> 
-[2023/03/31 - 코드업 100제 | 등차수열, 등비수열 (파이썬)](https://un-lazy-midnight.tistory.com/41) <br/> 
-[2023/03/29 - 백준 | 4344 평균은 넘겠지(파이썬)](https://un-lazy-midnight.tistory.com/40) <br/> 
-[2023/03/29 - Python | 코드는 더 길어도 수행시간은 더 짧다?! (코드업 파이썬 기초 100제 6056번)](https://un-lazy-midnight.tistory.com/39) <br/> 
-[2023/03/28 - 백준 | 1157 단어공부 (파이썬)](https://un-lazy-midnight.tistory.com/38) <br/> 
+  [2023/04/02 - 파이썬 알고리즘 인터뷰 | 6장. 문자열](https://un-lazy-midnight.tistory.com/51) <br/> 
+[2023/04/02 - 파이썬 알고리즘 인터뷰 | 5장. 리스트, 딕셔너리](https://un-lazy-midnight.tistory.com/50) <br/> 
+[2023/04/02 - 백준 | 5622 다이얼 (파이썬)](https://un-lazy-midnight.tistory.com/49) <br/> 
+[2023/04/02 - 백준 | 11718 그대로 출력하기 (파이썬) - 입력 횟수 모를때 꿀팁](https://un-lazy-midnight.tistory.com/48) <br/> 
+[2023/04/02 - Python | 파이썬 문자열을 찾고 인덱스를 반환해주는 find() 함수](https://un-lazy-midnight.tistory.com/47) <br/> 
+[2023/04/02 - 백준 | 10809 알파벳 찾기 (파이썬)](https://un-lazy-midnight.tistory.com/46) <br/> 
