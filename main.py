@@ -15,8 +15,7 @@ markdown_text="""
     <br>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
  <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
-   <br /><br />
+
    <h3>📚 Tech Stack 📚</h3>
   	<p align="center"> Techs that I've used at least once </p>
 
@@ -36,6 +35,8 @@ markdown_text="""
    <br>
  </p>
 
+   <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
+   <br /><br />
 
   </div>
   
