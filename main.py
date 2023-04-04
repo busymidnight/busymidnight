@@ -35,9 +35,9 @@ markdown_text="""
    <br>
  </p>
 
-   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
-   <br /><br />
-
+    <br /><br />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busymidnight&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
   </div>
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130) 
