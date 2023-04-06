@@ -36,7 +36,7 @@
   </div>
  
 ## :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://un-lazy-midnight.tistory.com/)](https://un-lazy-midnight.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://un-lazy-midnight.tistory.com/)](https://un-lazy-midnight.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busymidnight17@gmail.com)](mailto:busymidnight17@gmail.com)
 
 ## 🪄Latest Blog Posts 🪄
