@@ -11,6 +11,7 @@ markdown_text="""
 
  <div align="center">
    <h3>Hello World 👋</h3>
+   <h3>I'm Yeonkyung</h3>
    <br /><br />
     <br>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
@@ -20,11 +21,11 @@ markdown_text="""
   	<p align="center"> Techs that I've used at least once </p>
 
  <p align="center">
-   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white"></a>&nbsp 
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp    
    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
    <br>
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
    <!--<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp--> 
    <!--<img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp--> 
@@ -37,9 +38,14 @@ markdown_text="""
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
+  <br>
+  <br>
+  # :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://un-lazy-midnight.tistory.com/)](https://soo-vely-dev.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busymidnight17@gmail.com)](mailto:kimsh1691@gmail.com)
   </div>
-  
- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130) 
+  <br>
+  <br>
  <h3 align=>🪄Latest Blog Posts 🪄</h3>
 
   """
