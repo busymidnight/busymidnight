@@ -1,14 +1,9 @@
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=busymidnight&fontAlignY=40&fontSize=50&desc=🌷&descAlignY=65&animation=twinkling)
 
  <div align="center">
-   <h3>Hello World 👋</h3>
-   <h3>I'm Yeonkyung</h3>
-   <br /><br />
-    <br>
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
+   <h3>Hello World 👋 I'm Yeonkyung</h3>
+    
  <br>
 
    <h3>📚 Tech Stack 📚</h3>
@@ -30,17 +25,18 @@
    <br>
  </p>
 
-
+<br>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
   <br>
   <br>
-  # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://un-lazy-midnight.tistory.com/)](https://soo-vely-dev.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busymidnight17@gmail.com)](mailto:kimsh1691@gmail.com)
-  </div>
-  <br>
-  <br>
- <h3 align=>🪄Latest Blog Posts 🪄</h3>
+    </div>
+
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://un-lazy-midnight.tistory.com/)]([https://soo-vely-dev.tistory.com/](https://un-lazy-midnight.tistory.com))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busymidnight17@gmail.com)](mailto:busymidnight17@gmail.com)
+
+## 🪄Latest Blog Posts 🪄</h3>
 
   [2023/04/05 - Spring | Java의 프레임워크 Spring 과 Spring Boot를 알아보자!](https://un-lazy-midnight.tistory.com/58) <br/> 
 [2023/04/05 - IntelliJ | 인텔리제이 맥OS 단축키 모음 (230406 수정)](https://un-lazy-midnight.tistory.com/57) <br/> 
