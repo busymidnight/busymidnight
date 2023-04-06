@@ -14,7 +14,7 @@ markdown_text="""
     <br>
 
    <h3>📚 Tech Stack 📚</h3>
-  	<p align="center"> Techs that I've used at least once </p>
+  	<br>
 
  <p align="center">
    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white"></a>&nbsp 
@@ -32,7 +32,9 @@ markdown_text="""
    <br>
  </p>
   <br>
+  <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
+  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
   <br>
@@ -40,8 +42,8 @@ markdown_text="""
   </div>
  
 ## :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://un-lazy-midnight.tistory.com/)](https://soo-vely-dev.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busymidnight17@gmail.com)](mailto:kimsh1691@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://un-lazy-midnight.tistory.com/)](https://un-lazy-midnight.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busymidnight17@gmail.com)](mailto:busymidnight17@gmail.com)
 
 ## 🪄Latest Blog Posts 🪄
 
