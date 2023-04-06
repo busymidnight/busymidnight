@@ -26,9 +26,7 @@
    <br>
  </p>
   <br>
-  <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
-  <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
   <br>
@@ -37,7 +35,6 @@
  
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://un-lazy-midnight.tistory.com/)](https://un-lazy-midnight.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:busymidnight17@gmail.com)](mailto:busymidnight17@gmail.com)
 
 ## 🪄Latest Blog Posts 🪄
 
