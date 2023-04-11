@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [2023/04/08 - 프로그래머스 | Lv.2 카펫 (파이썬)](https://un-lazy-midnight.tistory.com/67) <br/> 
-[2023/04/07 - Spring | 인프런 김영한님의 스프링 입문 강의 정리 - Test 편](https://un-lazy-midnight.tistory.com/65) <br/> 
-[2023/04/06 - Java+Spring | 자바 빈(Java Beans)과 스프링 빈(Spring Bean)에 대해 알아보기](https://un-lazy-midnight.tistory.com/64) <br/> 
-[2023/04/06 - Spring | @ResponseBody, @RequestBody 어노테이션 알아보기](https://un-lazy-midnight.tistory.com/63) <br/> 
-[2023/04/06 - 프로그래머스 | Lv.2 주식가격 (파이썬)](https://un-lazy-midnight.tistory.com/62) <br/> 
-[2023/04/06 - Toy Project | 깃허브 README에 매일 최신 포스트 자동 업데이트 하기](https://un-lazy-midnight.tistory.com/60) <br/> 
+  [2023/04/10 - 프로그래머스 | Lv.2 위장 (파이썬)](https://un-lazy-midnight.tistory.com/73) <br/> 
+[2023/04/10 - 백준 | 1316 그룹 단어 체커 (파이썬)](https://un-lazy-midnight.tistory.com/72) <br/> 
+[2023/04/10 - 백준 | 2941 크로아티아 알파벳 (파이썬)](https://un-lazy-midnight.tistory.com/71) <br/> 
+[2023/04/10 - 백준 | 2444 별찍기 - 7 (파이썬)](https://un-lazy-midnight.tistory.com/70) <br/> 
+[2023/04/10 - 백준 | 25206 너의 평점은(파이썬)](https://un-lazy-midnight.tistory.com/69) <br/> 
+[2023/04/10 - Java | 인터페이스(Interface)를 사용하는 이유와 예제](https://un-lazy-midnight.tistory.com/68) <br/> 
