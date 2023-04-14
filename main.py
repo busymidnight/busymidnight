@@ -50,7 +50,7 @@ markdown_text="""
 for idx, feed in enumerate(RSS_FEED['entries']):
   if idx > MAX_NUM:
      break
-  feed_date = feed['pubDate']
+  feed_date = feed['published']
   markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/> \n"
 
 f = open("README.md", mode="w", encoding="utf-8")
