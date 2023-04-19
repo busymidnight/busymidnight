@@ -11,7 +11,7 @@
   	<br>
 
  <p align="center">
-   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white"></a>&nbsp 
+   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=CoffeeScript&logoColor=white"></a>&nbsp 
    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp    
    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
    <br>
@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [4/19 - 프로그래머스 | Lv.2 멀리뛰기 (파이썬)](https://un-lazy-midnight.tistory.com/78) <br/>
+  [4/19 - MySQL | Mac OS에 MySQL 설치하는 방법 (M1)](https://un-lazy-midnight.tistory.com/80) <br/>
+[4/19 - Spring | IntelliJ 빌드 후 finished with non-zero exit value 1 오류 해결하기](https://un-lazy-midnight.tistory.com/79) <br/>
+[4/19 - 프로그래머스 | Lv.2 멀리뛰기 (파이썬)](https://un-lazy-midnight.tistory.com/78) <br/>
 [4/17 - 프로그래머스 | Lv.2 소수찾기 (파이썬)](https://un-lazy-midnight.tistory.com/77) <br/>
 [4/14 - 프로그래머스 | Lv.3 베스트 앨범 (파이썬)](https://un-lazy-midnight.tistory.com/76) <br/>
 [4/13 - 티스토리 로그인 오류 | 사파리에서만 티스토리 로그인이 안됨 (해결?)](https://un-lazy-midnight.tistory.com/75) <br/>
-[4/12 - 프로그래머스 | Lv.2 전화번호 목록 (파이썬)](https://un-lazy-midnight.tistory.com/74) <br/>
-[4/11 - 프로그래머스 | Lv.2 위장 (파이썬)](https://un-lazy-midnight.tistory.com/73) <br/>
