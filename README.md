@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [5/1 - JPA | 프록시(Proxy)란? 제대로 알고 쓰자!](https://un-lazy-midnight.tistory.com/99) <br/>
+  [5/1 - JPA | 기본값 타입과 임베디드 타입이란?](https://un-lazy-midnight.tistory.com/102) <br/>
+[5/1 - JPA | 영속성 전이(CASCADE)와 고아 객체 (예제 - 5)](https://un-lazy-midnight.tistory.com/101) <br/>
+[5/1 - JPA | 즉시 로딩(FetchType.EAGER)과 지연 로딩(FetchType.LAZY)](https://un-lazy-midnight.tistory.com/100) <br/>
+[5/1 - JPA | 프록시(Proxy)란? 제대로 알고 쓰자!](https://un-lazy-midnight.tistory.com/99) <br/>
 [5/1 - JPA | 예제로 알아보는 상속관계 매핑 (예제-4)](https://un-lazy-midnight.tistory.com/98) <br/>
 [4/30 - JPA | 상속관계 매핑이란? @MappedSuperClass란?](https://un-lazy-midnight.tistory.com/97) <br/>
-[4/30 - JPA | 예제로 알아보는 연관관계 매핑 (예제-3)](https://un-lazy-midnight.tistory.com/96) <br/>
-[4/30 - JPA | 다양한 연관관계 매핑 총정리 (다대일, 일대다, 일대일, 다대다)](https://un-lazy-midnight.tistory.com/95) <br/>
-[4/30 - JPA | 예제로 알아보는 연관관계 매핑 (예제-2)](https://un-lazy-midnight.tistory.com/94) <br/>
