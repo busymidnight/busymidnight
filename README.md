@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [5/4 - JPA | JPQL 중급 문법 뿌시기 - 경로 표현식, 명시적 조인 vs 묵시적 조인](https://un-lazy-midnight.tistory.com/113) <br/>
+  [5/4 - JPA | JPQL 중급 문법 뿌시기 - 다형성 쿼리, 엔티티 직접 사용, Named 쿼리, 벌크 연산](https://un-lazy-midnight.tistory.com/115) <br/>
+[5/4 - JPA | JPQL 중급 문법 뿌시기 - 페치 조인(fetch join)](https://un-lazy-midnight.tistory.com/114) <br/>
+[5/4 - JPA | JPQL 중급 문법 뿌시기 - 경로 표현식, 명시적 조인 vs 묵시적 조인](https://un-lazy-midnight.tistory.com/113) <br/>
 [5/4 - JPA | JPQL 문법 뿌시기 - 타입 표현,  조건식, 기본 함수](https://un-lazy-midnight.tistory.com/112) <br/>
 [5/4 - JPA | JPQL 문법 뿌시기 - 조인,  서브 쿼리](https://un-lazy-midnight.tistory.com/111) <br/>
 [5/3 - Java | java.lang.ClassNotFoundException: javax.xml.bind.JAXBException 오류 해결하기](https://un-lazy-midnight.tistory.com/110) <br/>
-[5/3 - JPA | JPQL 문법 뿌시기 - 프로젝션(SELECT),  페이징 API](https://un-lazy-midnight.tistory.com/109) <br/>
-[5/3 - JPA | JPQL 문법 뿌시기 - 기본 문법, 쿼리 API](https://un-lazy-midnight.tistory.com/108) <br/>
