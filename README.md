@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [5/4 - JPA | JPQL 중급 문법 뿌시기 - 다형성 쿼리, 엔티티 직접 사용, Named 쿼리, 벌크 연산](https://un-lazy-midnight.tistory.com/115) <br/>
+  [5/9 - Spring Data JPA | 순수 JPA와 스프링 데이터 JPA의 페이징과 정렬 비교하기](https://un-lazy-midnight.tistory.com/119) <br/>
+[5/9 - Spring Data JPA | 파라미터 바인딩과 반환 타입](https://un-lazy-midnight.tistory.com/118) <br/>
+[5/9 - Spring Data JPA | @Query, 값,  DTO 조회하기](https://un-lazy-midnight.tistory.com/117) <br/>
+[5/8 - Spring Data JPA | 마법같은 쿼리 메소드 기능과 @Query](https://un-lazy-midnight.tistory.com/116) <br/>
+[5/4 - JPA | JPQL 중급 문법 뿌시기 - 다형성 쿼리, 엔티티 직접 사용, Named 쿼리, 벌크 연산](https://un-lazy-midnight.tistory.com/115) <br/>
 [5/4 - JPA | JPQL 중급 문법 뿌시기 - 페치 조인(fetch join)](https://un-lazy-midnight.tistory.com/114) <br/>
-[5/4 - JPA | JPQL 중급 문법 뿌시기 - 경로 표현식, 명시적 조인 vs 묵시적 조인](https://un-lazy-midnight.tistory.com/113) <br/>
-[5/4 - JPA | JPQL 문법 뿌시기 - 타입 표현,  조건식, 기본 함수](https://un-lazy-midnight.tistory.com/112) <br/>
-[5/4 - JPA | JPQL 문법 뿌시기 - 조인,  서브 쿼리](https://un-lazy-midnight.tistory.com/111) <br/>
-[5/3 - Java | java.lang.ClassNotFoundException: javax.xml.bind.JAXBException 오류 해결하기](https://un-lazy-midnight.tistory.com/110) <br/>
