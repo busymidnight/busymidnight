@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [5/9 - Spring Data JPA | 순수 JPA와 스프링 데이터 JPA의 페이징과 정렬 비교하기](https://un-lazy-midnight.tistory.com/119) <br/>
+  [5/9 - Spring Data JPA | 사용자 정의 리포지토리 구현](https://un-lazy-midnight.tistory.com/123) <br/>
+[5/9 - Spring Data JPA | JPA 힌트 @QueryHint 와 Lock](https://un-lazy-midnight.tistory.com/122) <br/>
+[5/9 - Spring Data JPA | @EntityGraph란?](https://un-lazy-midnight.tistory.com/121) <br/>
+[5/9 - Spring Data JPA | 벌크성 수정 쿼리 (순수 JPA와 스프링 데이터 JPA 비교)](https://un-lazy-midnight.tistory.com/120) <br/>
+[5/9 - Spring Data JPA | 순수 JPA와 스프링 데이터 JPA의 페이징과 정렬 비교하기](https://un-lazy-midnight.tistory.com/119) <br/>
 [5/9 - Spring Data JPA | 파라미터 바인딩과 반환 타입](https://un-lazy-midnight.tistory.com/118) <br/>
-[5/9 - Spring Data JPA | @Query, 값,  DTO 조회하기](https://un-lazy-midnight.tistory.com/117) <br/>
-[5/8 - Spring Data JPA | 마법같은 쿼리 메소드 기능과 @Query](https://un-lazy-midnight.tistory.com/116) <br/>
-[5/4 - JPA | JPQL 중급 문법 뿌시기 - 다형성 쿼리, 엔티티 직접 사용, Named 쿼리, 벌크 연산](https://un-lazy-midnight.tistory.com/115) <br/>
-[5/4 - JPA | JPQL 중급 문법 뿌시기 - 페치 조인(fetch join)](https://un-lazy-midnight.tistory.com/114) <br/>
