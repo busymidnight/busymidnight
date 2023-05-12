@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [5/9 - Spring Data JPA | 사용자 정의 리포지토리 구현](https://un-lazy-midnight.tistory.com/123) <br/>
-[5/9 - Spring Data JPA | JPA 힌트 @QueryHint 와 Lock](https://un-lazy-midnight.tistory.com/122) <br/>
-[5/9 - Spring Data JPA | @EntityGraph란?](https://un-lazy-midnight.tistory.com/121) <br/>
-[5/9 - Spring Data JPA | 벌크성 수정 쿼리 (순수 JPA와 스프링 데이터 JPA 비교)](https://un-lazy-midnight.tistory.com/120) <br/>
-[5/9 - Spring Data JPA | 순수 JPA와 스프링 데이터 JPA의 페이징과 정렬 비교하기](https://un-lazy-midnight.tistory.com/119) <br/>
-[5/9 - Spring Data JPA | 파라미터 바인딩과 반환 타입](https://un-lazy-midnight.tistory.com/118) <br/>
+  [5/11 - Spring Data JPA | Query By Example](https://un-lazy-midnight.tistory.com/128) <br/>
+[5/11 - Spring Data JPA | Specifications(명세)](https://un-lazy-midnight.tistory.com/127) <br/>
+[5/11 - Spring Data JPA | 스프링 데이터 JPA 구현체 분석](https://un-lazy-midnight.tistory.com/126) <br/>
+[5/11 - Spring Data JPA | Web 확장 - 도메인 클래스 컨버터, 페이징과 정렬](https://un-lazy-midnight.tistory.com/125) <br/>
+[5/11 - Spring Data JPA | Auditing](https://un-lazy-midnight.tistory.com/124) <br/>
+[5/9 - Spring Data JPA | 사용자 정의 리포지토리 구현](https://un-lazy-midnight.tistory.com/123) <br/>
