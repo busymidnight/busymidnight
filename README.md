@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [5/11 - Spring Data JPA | Query By Example](https://un-lazy-midnight.tistory.com/128) <br/>
+  [5/12 - Spring Data JPA | 네이티브 쿼리](https://un-lazy-midnight.tistory.com/130) <br/>
+[5/12 - Spring Data JPA | Projections(프로젝션)](https://un-lazy-midnight.tistory.com/129) <br/>
+[5/11 - Spring Data JPA | Query By Example](https://un-lazy-midnight.tistory.com/128) <br/>
 [5/11 - Spring Data JPA | Specifications(명세)](https://un-lazy-midnight.tistory.com/127) <br/>
 [5/11 - Spring Data JPA | 스프링 데이터 JPA 구현체 분석](https://un-lazy-midnight.tistory.com/126) <br/>
 [5/11 - Spring Data JPA | Web 확장 - 도메인 클래스 컨버터, 페이징과 정렬](https://un-lazy-midnight.tistory.com/125) <br/>
-[5/11 - Spring Data JPA | Auditing](https://un-lazy-midnight.tistory.com/124) <br/>
-[5/9 - Spring Data JPA | 사용자 정의 리포지토리 구현](https://un-lazy-midnight.tistory.com/123) <br/>
