@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [5/16 - Querydsl | 쿼리dsl의 기본 문법(설명 추가 예정)](https://un-lazy-midnight.tistory.com/131) <br/>
+  [5/16 - Querydsl | 수정, 삭제 벌크 연산하기](https://un-lazy-midnight.tistory.com/134) <br/>
+[5/16 - Querydsl | 동적 쿼리 - BooleanBuilder, Where 다중 파라미터](https://un-lazy-midnight.tistory.com/133) <br/>
+[5/16 - Querydsl | 결과 반환: 프로젝션, DTO, @QueryProjection](https://un-lazy-midnight.tistory.com/132) <br/>
+[5/16 - Querydsl | 쿼리dsl의 기본 문법(설명 추가 예정)](https://un-lazy-midnight.tistory.com/131) <br/>
 [5/12 - Spring Data JPA | 네이티브 쿼리](https://un-lazy-midnight.tistory.com/130) <br/>
 [5/12 - Spring Data JPA | Projections(프로젝션)](https://un-lazy-midnight.tistory.com/129) <br/>
-[5/11 - Spring Data JPA | Query By Example](https://un-lazy-midnight.tistory.com/128) <br/>
-[5/11 - Spring Data JPA | Specifications(명세)](https://un-lazy-midnight.tistory.com/127) <br/>
-[5/11 - Spring Data JPA | 스프링 데이터 JPA 구현체 분석](https://un-lazy-midnight.tistory.com/126) <br/>
