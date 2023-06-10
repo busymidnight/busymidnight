@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [6/1 - 프로그래머스 | Lv.2 타겟 넘버 (파이썬)](https://un-lazy-midnight.tistory.com/137) <br/>
+  [6/9 - 프로그래머스 | Lv.3 여행 경로 (파이썬)](https://un-lazy-midnight.tistory.com/138) <br/>
+[6/1 - 프로그래머스 | Lv.2 타겟 넘버 (파이썬)](https://un-lazy-midnight.tistory.com/137) <br/>
 [5/23 - CS | 테스트 대비 이것 저것 공부하기 (기록용)](https://un-lazy-midnight.tistory.com/136) <br/>
 [5/17 - Querydsl | 동적 쿼리와 성능 최적화 조회 - Builder, Where절 파라미터](https://un-lazy-midnight.tistory.com/135) <br/>
 [5/16 - Querydsl | 수정, 삭제 벌크 연산하기](https://un-lazy-midnight.tistory.com/134) <br/>
 [5/16 - Querydsl | 동적 쿼리 - BooleanBuilder, Where 다중 파라미터](https://un-lazy-midnight.tistory.com/133) <br/>
-[5/16 - Querydsl | 결과 반환: 프로젝션, DTO, @QueryProjection](https://un-lazy-midnight.tistory.com/132) <br/>
