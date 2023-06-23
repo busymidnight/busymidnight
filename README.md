@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [6/13 - Postman | 포스트맨에서 Cookie(쿠키)를 설정하고 API에서 @CookieValue로 받기](https://un-lazy-midnight.tistory.com/140) <br/>
+  [6/23 - EC2 서버가 자꾸 죽을 때.... SWAP 파일 생성하자!(메모리 부족할 때 해결방법)](https://un-lazy-midnight.tistory.com/144) <br/>
+[6/22 - 프로그래머스 | Lv.2 메뉴 리뉴얼 (파이썬)](https://un-lazy-midnight.tistory.com/143) <br/>
+[6/22 - 프로그래머스 | Lv.2 더 맵게 (파이썬)](https://un-lazy-midnight.tistory.com/142) <br/>
+[6/22 - 프로그래머스 | Lv.2 롤케이크 자르기 (파이썬)](https://un-lazy-midnight.tistory.com/141) <br/>
+[6/13 - Postman | 포스트맨에서 Cookie(쿠키)를 설정하고 API에서 @CookieValue로 받기](https://un-lazy-midnight.tistory.com/140) <br/>
 [6/13 - 프로그래머스 | Lv.2 게임 맵 최단거리 (파이썬)](https://un-lazy-midnight.tistory.com/139) <br/>
-[6/9 - 프로그래머스 | Lv.3 여행 경로 (파이썬)](https://un-lazy-midnight.tistory.com/138) <br/>
-[6/1 - 프로그래머스 | Lv.2 타겟 넘버 (파이썬)](https://un-lazy-midnight.tistory.com/137) <br/>
-[5/23 - CS | 테스트 대비 이것 저것 공부하기 (기록용)](https://un-lazy-midnight.tistory.com/136) <br/>
-[5/17 - Querydsl | 동적 쿼리와 성능 최적화 조회 - Builder, Where절 파라미터](https://un-lazy-midnight.tistory.com/135) <br/>
