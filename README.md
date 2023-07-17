@@ -38,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [7/4 - [해결] AWS EC2 퍼블릭 IP 바뀜 -> 고정 IP 사용하기](https://un-lazy-midnight.tistory.com/145) <br/>
+  [7/17 - 프로그래머스 | Lv.2 전력망을 둘로 나누기 (파이썬)](https://un-lazy-midnight.tistory.com/147) <br/>
+[7/17 - 프로그래머스 | Lv.1 최소 직사각형 (파이썬)](https://un-lazy-midnight.tistory.com/146) <br/>
+[7/4 - [해결] AWS EC2 퍼블릭 IP 바뀜 -> 고정 IP 사용하기](https://un-lazy-midnight.tistory.com/145) <br/>
 [6/23 - [해결] EC2 서버가 자꾸 죽을 때.... SWAP 파일 생성하자!(AWS EC2 프리티어 메모리 부족할 때)](https://un-lazy-midnight.tistory.com/144) <br/>
 [6/22 - 프로그래머스 | Lv.2 메뉴 리뉴얼 (파이썬)](https://un-lazy-midnight.tistory.com/143) <br/>
 [6/22 - 프로그래머스 | Lv.2 더 맵게 (파이썬)](https://un-lazy-midnight.tistory.com/142) <br/>
-[6/22 - 프로그래머스 | Lv.2 롤케이크 자르기 (파이썬)](https://un-lazy-midnight.tistory.com/141) <br/>
-[6/13 - [해결] 포스트맨에서 Cookie(쿠키)를 설정하고 API에서 @CookieValue로 받기](https://un-lazy-midnight.tistory.com/140) <br/>
