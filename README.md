@@ -16,6 +16,7 @@
    <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
    <br>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
    <!--<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp--> 
    <!--<img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp--> 
    <br>
@@ -37,9 +38,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [7/17 - 프로그래머스 | Lv.2 전력망을 둘로 나누기 (파이썬)](https://un-lazy-midnight.tistory.com/147) <br/>
+  [7/19 - 프로그래머스 | Lv.2 오픈채팅방 (파이썬) 2019 KAKAO BLIND RECRUITMENT](https://un-lazy-midnight.tistory.com/149) <br/>
+[7/18 - 프로그래머스 | Lv.2 괄호 회전하기 (파이썬)](https://un-lazy-midnight.tistory.com/148) <br/>
+[7/17 - 프로그래머스 | Lv.2 전력망을 둘로 나누기 (파이썬)](https://un-lazy-midnight.tistory.com/147) <br/>
 [7/17 - 프로그래머스 | Lv.1 최소 직사각형 (파이썬)](https://un-lazy-midnight.tistory.com/146) <br/>
 [7/4 - [해결] AWS EC2 퍼블릭 IP 바뀜 -> 고정 IP 사용하기](https://un-lazy-midnight.tistory.com/145) <br/>
 [6/23 - [해결] EC2 서버가 자꾸 죽을 때.... SWAP 파일 생성하자!(AWS EC2 프리티어 메모리 부족할 때)](https://un-lazy-midnight.tistory.com/144) <br/>
-[6/22 - 프로그래머스 | Lv.2 메뉴 리뉴얼 (파이썬)](https://un-lazy-midnight.tistory.com/143) <br/>
-[6/22 - 프로그래머스 | Lv.2 더 맵게 (파이썬)](https://un-lazy-midnight.tistory.com/142) <br/>
