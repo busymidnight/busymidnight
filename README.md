@@ -35,9 +35,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [8/2 - [해결] (Spring) Ambiguous handler methods mapped for HTTP path 오류](https://un-lazy-midnight.tistory.com/151) <br/>
+  [8/4 - Git | 커밋 메시지 규칙으로 효율적인 협업하기](https://un-lazy-midnight.tistory.com/152) <br/>
+[8/2 - [해결] (Spring) Ambiguous handler methods mapped for HTTP path 오류](https://un-lazy-midnight.tistory.com/151) <br/>
 [8/1 - Java | 엔티티를 조회하는 가장 안전한 방법, Optional](https://un-lazy-midnight.tistory.com/150) <br/>
 [7/19 - 프로그래머스 | Lv.2 오픈채팅방 (파이썬) 2019 KAKAO BLIND RECRUITMENT](https://un-lazy-midnight.tistory.com/149) <br/>
 [7/18 - 프로그래머스 | Lv.2 괄호 회전하기 (파이썬)](https://un-lazy-midnight.tistory.com/148) <br/>
 [7/17 - 프로그래머스 | Lv.2 전력망을 둘로 나누기 (파이썬)](https://un-lazy-midnight.tistory.com/147) <br/>
-[7/17 - 프로그래머스 | Lv.1 최소 직사각형 (파이썬)](https://un-lazy-midnight.tistory.com/146) <br/>
