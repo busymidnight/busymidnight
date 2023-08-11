@@ -23,9 +23,7 @@
    <br>
  </p>
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbusymidnight&count_bg=%23BEBEBE&title_bg=%23FFFFFF&icon=baidu.svg&icon_color=%23726161&title=%C2%B7&edge_flat=false"/></a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=busymidnight&show_icons=truetheme=dracula">
   <br>
   <br>
   </div>
@@ -35,9 +33,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [8/11 - Spring | @ConfigurationProperties와 @ConfigurationPropertiesScan](https://un-lazy-midnight.tistory.com/158) <br/>
-[8/11 - Spring | RESTful API - DTO를 Page로 반환하기](https://un-lazy-midnight.tistory.com/157) <br/>
-[8/9 - Spring | @Builder, @NoArgsConstructor 그리고 푸른 수염의 @AllArgsConstructor](https://un-lazy-midnight.tistory.com/155) <br/>
-[8/9 - Java | Lombok의 @Builder와 @Builder.Default 알아보기](https://un-lazy-midnight.tistory.com/153) <br/>
-[8/4 - Git Convention | Git으로 팀프로젝트 협업하기](https://un-lazy-midnight.tistory.com/152) <br/>
-[8/2 - [해결] (Spring) Ambiguous handler methods mapped for HTTP path 오류](https://un-lazy-midnight.tistory.com/151) <br/>
+  [8/12 - CS | CPU 스케줄러와 스케줄링 알고리즘](https://un-lazy-midnight.tistory.com/165) <br/>
+[8/12 - CS | Design Pattern (디자인패턴)](https://un-lazy-midnight.tistory.com/167) <br/>
+[8/12 - CS | Operating System (운영체제)](https://un-lazy-midnight.tistory.com/166) <br/>
+[8/12 - 대동덕지도 | Spring Security + JWT로 로그아웃을 구현하자! (feat. Redis)](https://un-lazy-midnight.tistory.com/160) <br/>
+[8/11 - 대동덕지도 | Spring Boot에서 비밀번호 재설정 링크 이메일 전송 기능 구현하기](https://un-lazy-midnight.tistory.com/164) <br/>
+[8/11 - Spring Security | 비밀번호 변경 기능 구현 하기](https://un-lazy-midnight.tistory.com/161) <br/>
