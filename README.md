@@ -33,9 +33,9 @@
 
 ## 🪄Latest Blog Posts 🪄
 
-  [8/12 - CS | CPU 스케줄러와 스케줄링 알고리즘](https://un-lazy-midnight.tistory.com/165) <br/>
+  [8/13 - 대동덕지도 | Spring Security + JWT 토큰 유효성 검증과 재발급 (Access Token, Refresh Token)](https://un-lazy-midnight.tistory.com/170) <br/>
+[8/13 - 대동덕지도 | 로그인 기능 구현에서 Refresh Token을 선택한 이유](https://un-lazy-midnight.tistory.com/169) <br/>
+[8/12 - CS | CPU 스케줄러와 스케줄링 알고리즘](https://un-lazy-midnight.tistory.com/165) <br/>
 [8/12 - CS | Design Pattern (디자인패턴)](https://un-lazy-midnight.tistory.com/167) <br/>
 [8/12 - CS | Operating System (운영체제)](https://un-lazy-midnight.tistory.com/166) <br/>
-[8/12 - 대동덕지도 | Spring Security + JWT로 로그아웃을 구현하자! (feat. Redis)](https://un-lazy-midnight.tistory.com/160) <br/>
-[8/11 - 대동덕지도 | Spring Boot에서 비밀번호 재설정 링크 이메일 전송 기능 구현하기](https://un-lazy-midnight.tistory.com/164) <br/>
-[8/11 - Spring Security | 비밀번호 변경 기능 구현 하기](https://un-lazy-midnight.tistory.com/161) <br/>
+[8/12 - 대동덕지도 | Spring Boot에서 Spring Security + JWT로 로그아웃을 구현하자! (feat. Redis)](https://un-lazy-midnight.tistory.com/160) <br/>
